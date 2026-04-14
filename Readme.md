@@ -10,15 +10,15 @@
 
 | Page | Preview |
 |------|---------|
-| All Listings | ![Listings](./screenshots/Screenshot_2026-04-15_at_4_12_52_AM.png) |
-| Listing Detail | ![Detail](./screenshots/Screenshot_2026-04-15_at_4_13_02_AM.png) |
-| Reviews Section | ![Reviews](./screenshots/Screenshot_2026-04-15_at_4_13_10_AM.png) |
-| Leave a Review (logged in) | ![Review Form](./screenshots/Screenshot_2026-04-15_at_4_13_38_AM.png) |
-| Create Listing | ![Create](./screenshots/Screenshot_2026-04-15_at_4_14_05_AM.png) |
-| Listing Owner View (Edit/Delete) | ![Owner](./screenshots/Screenshot_2026-04-15_at_4_14_13_AM.png) |
-| Login | ![Login](./screenshots/Screenshot_2026-04-15_at_4_12_45_AM.png) |
-| Signup | ![Signup](./screenshots/Screenshot_2026-04-15_at_4_12_38_AM.png) |
-| Logged-in Homepage | ![Logged In](./screenshots/Screenshot_2026-04-15_at_4_14_46_AM.png) |
+| All Listings | ![Listings](./screenshots/AllListings.png) |
+| Listing Detail | ![Detail](./screenshots/ListingDetail.png) |
+| Reviews Section | ![Reviews](./screenshots/ReviewsSection.png) |
+| Leave a Review (logged in) | ![Review Form](./screenshots/LeaveReview.png) |
+| Create Listing | ![Create](./screenshots/CreateListing.png) |
+| Listing Owner View (Edit/Delete) | ![Owner](./screenshots/ListingOwnerView.png) |
+| Login | ![Login](./screenshots/Login.png) |
+| Signup | ![Signup](./screenshots/Signup.png) |
+| Logged-in Homepage | ![Logged In](./screenshots/LoggedIn.png) |
 
 ---
 
